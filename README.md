@@ -1,9 +1,5 @@
-ONLY WORKS ON LINUX AND WINDOWS!
+ONLY WORKS ON LINUX!
 
-HOW TO EXECUTE .bin or .exe ON LINUX AND WINDOWS:
+HOW TO EXECUTE .bin ON LINUX:
 
-Linux:
-Run ./(folder)/bot.bin
-
-Windows:
-Run (folder)\bot.exe
+Run /path/to/bot.bin
