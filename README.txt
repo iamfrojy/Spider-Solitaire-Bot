@@ -1,11 +1,10 @@
 (to get it download the linux folder for the beta testing version.)
 (there also may be bugs.)
+
 Section 1
 How to run the file
 
-ONLY WORKS ON LINUX!
-
-HOW TO EXECUTE .bin ON LINUX:
+HOW TO EXECUTE .bin:
 
 Run /path/to/bot.bin
 
